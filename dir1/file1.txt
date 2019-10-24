@@ -1,3 +1,6 @@
 first commit
-second commit is missing
-third commit
+
+second commit moved by a line down
+third 
+fourth 
+
